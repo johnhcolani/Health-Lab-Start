@@ -1,0 +1,9 @@
+# Placeholder for Live Vitals Screenshot
+# This would show the live monitoring view with:
+# - "Live Heart Rate" title with latest BPM value
+# - Interactive line chart showing heart rate over time
+# - Real-time data points with smooth curves
+# - Grid lines and Y-axis labels (40-160 BPM range)
+# - Last update timestamp and current HR/SpO2 values
+# - Connect/Disconnect button
+# - Note about running the Node.js server

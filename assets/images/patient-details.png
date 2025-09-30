@@ -1,0 +1,9 @@
+# Placeholder for Patient Details Screenshot
+# This would show the patient detail view with:
+# - App bar with patient name (e.g., "Giuseppina753 Ariane992 Stiedemann542")
+# - Patient information section showing:
+#   - Name: Giuseppina753 Ariane992 Stiedemann542
+#   - Gender: female
+#   - BirthDate: 1996-03-08
+# - Raw FHIR Patient JSON section with scrollable JSON data
+# - Back arrow in app bar
